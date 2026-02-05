@@ -153,6 +153,51 @@ Google dorking should only be performed for **educational, defensive, and lawful
 
 Researchers should avoid interacting with exposed systems or downloading sensitive data.
 
+## Threat Intelligence & CTI
+
+Tools, platforms, and data sources used to identify, track, and analyze cyber threats, threat actors, infrastructure, and campaigns.
+
+### Threat Intelligence Platforms
+- **AlienVault OTX** — Community-driven threat intelligence and IOC sharing.  
+  https://otx.alienvault.com/
+- **VirusTotal** — Malware scanning and indicator enrichment using multiple engines.  
+  https://www.virustotal.com/
+- **Hybrid Analysis** — Automated malware behavior analysis sandbox.  
+  https://www.hybrid-analysis.com/
+- **MalwareBazaar** — Malware sample repository with hashes and metadata.  
+  https://bazaar.abuse.ch/
+- **ANY.RUN** — Interactive online malware sandbox environment.  
+  https://any.run/
+  ### Threat Feeds & IOC Sources
+- **AbuseIPDB** — Reputation database of malicious IP addresses.  
+  https://www.abuseipdb.com/
+- **Spamhaus** — Intelligence on spam, botnets, and malicious infrastructure.  
+  https://www.spamhaus.org/
+- **Feodo Tracker** — Tracking command-and-control servers for botnets.  
+  https://feodotracker.abuse.ch/
+- **URLhaus** — Collection of malicious URLs used for malware distribution.  
+  https://urlhaus.abuse.ch/
+- **PhishTank** — Verified phishing URLs and phishing intelligence.  
+  https://phishtank.org/
+  ### Threat Actor & Campaign Research
+- **MITRE ATT&CK** — Knowledge base of adversary tactics, techniques, and procedures (TTPs).  
+  https://attack.mitre.org/
+- **MISP** — Open-source platform for sharing threat intelligence and indicators.  
+  https://www.misp-project.org/
+- **OpenSanctions** — Sanctions lists, PEPs, and high-risk entities database.  
+  https://www.opensanctions.org/
+- **IntelX** — Search engine for leaked data, dark web content, and technical artifacts.  
+  https://intelx.io/
+### Infrastructure & Exposure Analysis
+- **Shodan** — Search engine for internet-exposed devices and services.  
+  https://www.shodan.io/
+- **Censys** — Internet-wide asset discovery and infrastructure intelligence.  
+  https://search.censys.io/
+- **GreyNoise** — Differentiates background internet noise from real threats.  
+  https://www.greynoise.io/
+- **Pulsedive** — Threat intelligence enrichment and risk analysis platform.  
+  https://pulsedive.com/
+
 
   
 
