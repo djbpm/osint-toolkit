@@ -36,16 +36,21 @@ The focus is **methodology-first**, not tool spam.
 - Research, Academia & Reports  
 
  ## General Search & Discovery
-
 Core search engines and discovery platforms used during OSINT and CTI investigations.
+- **[Google Search](https://www.google.com)** — Advanced operators and indexing for open-source research.
+- **[Bing](https://www.bing.com)** — Alternative indexing that often surfaces assets missed by Google.
+- **[DuckDuckGo](https://duckduckgo.com)** — Privacy-focused search engine useful for neutral and de-biased queries.
+- **[Yandex](https://yandex.com)** — Strong coverage for Eastern European and Russian-language content.
+- **[Perplexity](https://www.perplexity.ai)** — AI-assisted search with cited sources and traceable references.
+- **[Mojeek](https://www.mojeek.com)** — Independent crawler-based search engine with minimal tracking.
+- **[Swisscows](https://swisscows.com)** — Privacy-first search engine hosted in Switzerland.
+- **[Gigablast](https://www.gigablast.com)** — Open-source inspired search engine with its own index.
+- **[Marginalia Search](https://search.marginalia.nu)** — Focuses on non-commercial, independent web content.
+- **[Internet Archive Search](https://archive.org)** — Search across archived web pages, documents, and media.
+- **[Wolfram Alpha](https://www.wolframalpha.com)** — Structured, computational intelligence for factual queries.
 
-- **Google Search** — Advanced operators and indexing for open-source research.
-- **Bing** — Alternative indexing that often surfaces different assets.
-- **DuckDuckGo** — Privacy-focused search engine useful for neutral queries.
-- **Yandex** — Strong coverage for Eastern European and Russian-language content.
-- **Brave Search** — Independent search index with growing OSINT relevance.
-- **Perplexity** — AI-assisted search with cited sources.
-- 
+
+  
 
 
 
