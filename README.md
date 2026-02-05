@@ -250,7 +250,56 @@ Tools and services used to analyze domains, IP addresses, hosting infrastructure
   https://publicwww.com/
 - **Hunter.io** — Domain-based email infrastructure discovery.  
   https://hunter.io/
-  
+
+  ## Data Breaches & Credential Exposure
+
+Resources used to identify leaked credentials, breached accounts, exposed databases, and compromised personal or corporate data.
+
+### Breach & Credential Lookup
+- **Have I Been Pwned** — Check emails and usernames against known data breaches.  
+  https://haveibeenpwned.com/
+- **DeHashed** — Search leaked credentials, emails, usernames, IPs, and domains.  
+  https://www.dehashed.com/
+- **BreachDirectory** — Aggregated breach data search for emails and usernames.  
+  https://breachdirectory.org/
+- **LeakCheck** — Credential leak detection for emails, usernames, and domains.  
+  https://leakcheck.io/
+- **IntelX (Intelligence X)** — Search leaked datasets, documents, and credentials.  
+  https://intelx.io/
+  ### Password & Combo List Intelligence
+- **Scylla.sh** — Search engine for leaked passwords and credential dumps.  
+  https://scylla.sh/
+- **Snusbase** — Breach database search for usernames, emails, and passwords.  
+  https://snusbase.com/
+- **WeLeakInfo (Archived)** — Historical breach intelligence reference.  
+  https://weleakinfo.to/
+
+### Paste & Leak Monitoring
+- **Pastebin** — Public paste monitoring for leaked credentials and data.  
+  https://pastebin.com/
+- **Pastebin Archive** — Historical paste indexing and analysis.  
+  https://psbdmp.cc/
+- **Ghostbin** — Anonymous text sharing often used for leaks.  
+  https://ghostbin.com/
+  ### Dark Web & Marketplace Monitoring
+- **DarkSearch** — Search engine for Tor (.onion) content.  
+  https://darksearch.io/
+- **Ahmia** — Tor search engine with indexed onion services.  
+  https://ahmia.fi/
+- **OnionSearch** — Command-line tool for searching Tor networks.  
+  GitHub - megadose/OnionSearch: OnionSearch is a script that scrapes urls on different .onion search
+  #### Enterprise & Defensive Monitoring
+- **SpyCloud** — Enterprise breach monitoring & ATO prevention.  
+  https://spycloud.com/
+- **Constella Intelligence** — Digital identity risk & breach intelligence.  
+  https://constella.ai/
+- **RiskIQ (PassiveTotal)** — Infrastructure & breach correlation.  
+  https://community.riskiq.com/
+
+#### Ethical & Legal Use
+All tools listed are intended for **defensive security, threat intelligence, fraud prevention, and OSINT research**.  
+Misuse of leaked data or unauthorized access is illegal and unethical.
+
   
 
   
