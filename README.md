@@ -49,6 +49,110 @@ Core search engines and discovery platforms used during OSINT and CTI investigat
 - **[Internet Archive Search](https://archive.org)** — Search across archived web pages, documents, and media.
 - **[Wolfram Alpha](https://www.wolframalpha.com)** — Structured, computational intelligence for factual queries.
 
+- ## Google Dorks & Advanced Search
+
+Advanced search operators and query techniques used to discover publicly exposed information indexed by search engines.
+
+These methods are widely used in OSINT, threat intelligence, and security research to identify misconfigurations, exposed assets, and sensitive data leaks.
+
+---
+
+### Official Documentation & References
+
+- **Google Advanced Search Operators**  
+  https://support.google.com/websearch/answer/2466433
+
+- **Google Search Help Center**  
+  https://www.google.com/advanced_search
+
+- **OWASP Google Dorking Guide**  
+  https://owasp.org/www-community/attacks/Google_Hacking
+
+- **Exploit Database – Google Hacking Database (GHDB)**  
+  https://www.exploit-db.com/google-hacking-database
+
+---
+
+### Common Google Dork Operators
+- **site:** Limit results to a specific domain  
+  - Example: `site:example.com`
+
+- **filetype:** Search for specific file formats  
+  - Example: `filetype:pdf`, `filetype:xlsx`, `filetype:sql`
+
+- **intitle:** Search for keywords in page titles  
+  - Example: `intitle:"index of"`
+
+- **inurl:** Search for keywords within URLs  
+  - Example: `inurl:admin`
+
+- **cache:** View cached versions of pages  
+  - Example: `cache:example.com`
+
+- **related:** Find websites related to a domain  
+  - Example: `related:example.com`
+
+---
+
+### Sensitive Information Discovery
+
+Used to identify unintentionally exposed files and documents.
+
+- Configuration files  
+  - `filetype:env`
+  - `filetype:yaml`
+  - `filetype:ini`
+
+- Backup and archive files  
+  - `filetype:zip`
+  - `filetype:tar`
+  - `filetype:bak`
+
+- Credential-related documents  
+  - `filetype:txt password`
+  - `filetype:xlsx credentials`
+
+---
+
+### Directory Listing & Open Indexes
+
+Identify misconfigured web servers exposing directory contents.
+
+- `intitle:"index of"`
+- `intitle:"index of" backup`
+- `intitle:"index of" confidential`
+
+Reference:
+- https://www.exploit-db.com/google-hacking-database?category=Files
+
+---
+
+### Cloud & DevOps Exposure
+
+Discover publicly indexed cloud resources and development artifacts.
+
+- Cloud storage references  
+  - `site:s3.amazonaws.com`
+  - `site:blob.core.windows.net`
+  - `site:storage.googleapis.com`
+
+- CI/CD and development files  
+  - `filetype:yml github`
+  - `filetype:json api_key`
+  - `filetype:log password`
+
+References:
+- https://cloud.google.com/security
+- https://owasp.org/www-project-top-ten/
+
+---
+
+### Ethical Use Notice
+
+Google dorking should only be performed for **educational, defensive, and lawful research purposes**.
+
+Researchers should avoid interacting with exposed systems or downloading sensitive data.
+
 
   
 
