@@ -198,6 +198,60 @@ Tools, platforms, and data sources used to identify, track, and analyze cyber th
 - **Pulsedive** — Threat intelligence enrichment and risk analysis platform.  
   https://pulsedive.com/
 
+  ## Domains, IPs & Infrastructure
+
+Tools and services used to analyze domains, IP addresses, hosting infrastructure, certificates, DNS records, and exposed services.
+
+### Domain & DNS Intelligence
+- **WHOIS** — Domain registration records and ownership metadata.  
+  https://who.is/
+- **ViewDNS** — DNS records, reverse IP lookup, and historical DNS data.  
+  https://viewdns.info/
+- **SecurityTrails** — Domain, DNS, and infrastructure history tracking.  
+  https://securitytrails.com/
+- **DomainTools** — Domain ownership, pivoting, and risk profiling.  
+  https://www.domaintools.com/
+- **DNSDumpster** — DNS recon and subdomain discovery tool.  
+  https://dnsdumpster.com/
+### IP & Network Intelligence
+- **IPinfo** — IP geolocation, ASN, and network ownership data.  
+  https://ipinfo.io/
+- **ARIN / RIPE / APNIC** — Regional internet registry lookups.  
+  https://www.arin.net/  
+  https://www.ripe.net/  
+  https://www.apnic.net/
+- **BGPView** — ASN, prefix, and BGP routing information.  
+  https://bgpview.io/
+- **IPVoid** — IP reputation and blacklist checking.  
+  https://www.ipvoid.com/
+
+### Internet-Wide Scanning & Exposure
+- **Shodan** — Discover exposed services, devices, and banners.  
+  https://www.shodan.io/
+- **Censys** — Internet asset discovery using certificates and scans.  
+  https://search.censys.io/
+- **ZoomEye** — Cyberspace search engine for exposed assets.  
+  https://www.zoomeye.org/
+- **FOFA** — Search engine for internet-connected devices and services.  
+  https://fofa.info/
+  ### Certificates & Web Infrastructure
+- **crt.sh** — Certificate Transparency logs for subdomain discovery.  
+  https://crt.sh/
+- **CertSpotter** — SSL certificate monitoring and alerts.  
+  https://certspotter.com/
+- **BuiltWith** — Website technology stack profiling.  
+  https://builtwith.com/
+- **Wappalyzer** — Identify technologies used on websites.  
+  https://www.wappalyzer.com/
+  ### Cloud & Hosting Attribution
+- **GrayHat Warfare** — Public cloud storage exposure search.  
+  https://grayhatwarfare.com/
+- **PublicWWW** — Source code and technology fingerprint search.  
+  https://publicwww.com/
+- **Hunter.io** — Domain-based email infrastructure discovery.  
+  https://hunter.io/
+  
+  
 
   
 
