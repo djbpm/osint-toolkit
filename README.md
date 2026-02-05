@@ -1,45 +1,57 @@
+# osint-toolkit
 
-## Scope
+An intelligence-focused index of **OSINT**, **Cyber Threat Intelligence (CTI)**, and **public data investigation** tools.
 
-This repository is intended for:
+This repository is designed for:
 - OSINT practitioners
 - Threat intelligence analysts
-- Trust & Safety and investigations teams
-- Security researchers and analysts
-- All resources listed here are based on **publicly available information**.
+- Security researchers
+- Investigators & journalists
 
-## Structure
+The focus is **methodology-first**, not tool spam.
 
-Resources are organized by investigative domain, including but not limited to:
+---
 
-- Search & Discovery
-- Social Media Intelligence
-- Domain & Network Intelligence
-- Threat Intelligence
-- Data Breaches & Leaks
-- Geospatial Intelligence
-- Media & Metadata Analysis
-- Automation & Frameworks
+## Scope & Philosophy
 
-## Methodology
+- Open-source and publicly accessible resources only
+- No leaked databases or illegal content
+- Tools are categorized by **investigation objective**, not popularity
+- Emphasis on **signal over noise**
 
-This project focuses on:
-- Signal over noise
-- Analyst usability
-- Ethical and lawful intelligence gathering
-- Clear categorization and maintenance
-- ## Contribution
+---
 
-Contributions are welcome.
-Please ensure tools are:
-- Publicly accessible
-- Actively maintained (or historically relevant)
-- Clearly categorized
-- Non-duplicative
+## Table of Contents
 
-Detailed contribution guidelines will follow.
+- General Search & Discovery  
+- Google Dorks & Advanced Search  
+- Threat Intelligence & CTI  
+- Domains, IPs & Infrastructure  
+- Data Breaches & Credential Exposure  
+- Social Media Intelligence (SOCMINT)  
+- Image & Video Intelligence (IMINT / VIDINT)  
+- Geospatial Intelligence (GEOINT)  
+- Dark Web & Underground Sources  
+- Automation & Frameworks  
+- Research, Academia & Reports  
+
+---
+
+## Contribution Guidelines
+
+This project welcomes **high-signal contributions**.
+
+When adding a tool:
+- Provide a **short, factual description**
+- Avoid marketing language
+- Prefer official links or documentation
+- One tool per bullet
+
+See `CONTRIBUTING.md` for details.
+
+---
 
 ## Disclaimer
 
-This repository is for **educational and research purposes only**.
-Users are responsible for complying with applicable laws and regulations.
+This repository is for **educational and defensive research purposes only**.  
+The maintainer does not endorse misuse or illegal activity.
