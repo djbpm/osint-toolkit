@@ -35,9 +35,34 @@ The focus is **methodology-first**, not tool spam.
 - Automation & Frameworks  
 - Research, Academia & Reports  
 
----
+ ## General Search & Discovery
+
+Core search engines and discovery platforms used during OSINT and CTI investigations.
+
+- **Google Search** — Advanced operators and indexing for open-source research.
+- **Bing** — Alternative indexing that often surfaces different assets.
+- **DuckDuckGo** — Privacy-focused search engine useful for neutral queries.
+- **Yandex** — Strong coverage for Eastern European and Russian-language content.
+- **Brave Search** — Independent search index with growing OSINT relevance.
+- **Perplexity** — AI-assisted search with cited sources.
+- 
+
+
+
+
+​​​
+
 
 ## Contribution Guidelines
+Communicate responsibly. Ensure message is publicly acceptable.​​​
+
+
+
+
+
+
+
+
 
 This project welcomes **high-signal contributions**.
 
