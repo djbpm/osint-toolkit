@@ -300,9 +300,489 @@ Resources used to identify leaked credentials, breached accounts, exposed databa
 All tools listed are intended for **defensive security, threat intelligence, fraud prevention, and OSINT research**.  
 Misuse of leaked data or unauthorized access is illegal and unethical.
 
+## Social Media Intelligence (SOCMINT)
+FACEBOOK
+🟢 Facebook Friend List Scraper
+https://github.com/
+Purpose: Scrape large Facebook friend lists without aggressive rate limiting.
+
+🟢 Facebook Search
+https://www.facebook.com/search/
+Purpose: Native Facebook graph search for people, posts, pages, and groups.
+
+🟢 Fanpage Karma
+https://www.fanpagekarma.com/
+Purpose: Analyze Facebook page engagement, growth, and performance.
+
+🟢 FB Sleep Stats
+https://github.com/
+Purpose: Behavioral analysis using Facebook activity timestamps.
+
+🟢 Find My Facebook ID
+https://findmyfbid.com/
+Purpose: Resolve numeric Facebook IDs for profiles, pages, and groups.
+
+🟢 Have I Been Zuckered
+https://haveibeenzuckered.com/
+Purpose: Check if phone numbers appeared in historic Facebook breaches.
+  
+🟢 Lookup-ID
+https://lookup-id.com/
+Purpose: Extract Facebook profile, group, and page IDs.
+
+🟢 Search Is Back
+https://searchisback.com/
+Purpose: Advanced keyword and people search on Facebook.
+
+🆕 IntelX Facebook Datasets
+https://intelx.io/
+Purpose: Search leaked Facebook-related datasets and identifiers.
+
+🆕 CrowdTangle (Meta)
+https://www.crowdtangle.com/
+Purpose: Track public Facebook content spread and engagement (journalism/research).
+
+INSTAGRAM
+  🟢 Dolphin Radar
+https://dolphinradar.com/
+Purpose: View public Instagram posts, stories, and profiles anonymously.
+
+🟢 Iconosquare
+https://www.iconosquare.com/
+Purpose: Instagram analytics and engagement intelligence.
+
+🟢 Instagram Monitor
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Track Instagram profile changes and activity in real time.
+
+🟢 InstagramPrivSniffer
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Research access to private Instagram media (OSINT use).
+
+🟢 Osintgram
+GitHub - Datalux/Osintgram: Osintgram is a OSINT tool on Instagram. It offers an interactive shell t
+Purpose: CLI OSINT tool for Instagram usernames, emails, and metadata.
+
+🟢 Osintgraph
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Visualize Instagram relationships using Neo4j.
+
+🟢 Toutatis
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Extract emails, phone numbers, and metadata from Instagram accounts.
+
+🆕 Inflact Tools
+https://inflact.com/
+Purpose: Username, hashtag, and profile intelligence for Instagram.
+
+🆕 Picuki
+https://www.picuki.com/
+Purpose: Anonymous Instagram browsing and content inspection.
+
+TWITTER/X
+🟢 Twitter Advanced Search
+https://twitter.com/search-advanced
+Purpose: Filter tweets by keywords, users, dates, and engagement.
+
+🟢 Twint
+GitHub - twintproject/twint: An advanced Twitter scraping & OSINT tool written in Python that doesn'
+Purpose: Scrape tweets without API access.
+
+🟢 TweetMap
+https://www.omnisci.com/demos/tweetmap
+Purpose: Visualize tweets by geolocation.
+
+🟢 Trends24
+https://trends24.in/
+Purpose: Monitor trending topics by country and city.
+
+🆕 Twemex
+https://twemex.app/
+Purpose: Search Twitter bios, followers, and conversations.
+
+🆕 Followerwonk
+https://followerwonk.com/
+Purpose: Analyze Twitter/X followers and bios.
+
+REDDIT
+🟢 Arctic Shift
+https://arctic-shift.photon-reddit.com/
+Purpose: Access historical Reddit data via API and web UI.
+
+🟢 Pushshift API
+https://pushshift.io/
+Purpose: Search deleted and archived Reddit posts/comments.
+
+🟢 PullPush
+https://pullpush.io/
+Purpose: Investigate removed Reddit submissions and comments.
+
+🟢 Reddit Comment Search
+https://redditcommentsearch.com/
+Purpose: Search comments by username.
+
+🟢 Reddit Universal scammers list
+https://www.universalscammerlist.com/
+Purpose:This acts as the website-portion for the subreddit /r/universalscammerlist.
+
+🆕 Reveddit
+https://www.reveddit.com/
+Purpose: Detect removed or censored Reddit content.
+
+🆕 Unddit
+https://unddit.com/
+Purpose: View deleted Reddit comments in near real time.
+
+PINTEREST
+🟢 Pingroupie
+https://pingroupie.com/
+Purpose: Discover Pinterest group boards and contributors.
+
+🟢 Pinterest Pin Stats
+https://www.pinterest.com/
+Purpose: Analyze hidden engagement metrics for Pinterest pins.
+
+WHATSAPP
+🟢 WhatsApp Click-to-Chat
+https://wa.me/
+Purpose: Verify if a phone number is registered on WhatsApp.
+
+🟢 WhatsApp Group Links Search
+https://www.whatsapgrouplinks.org/
+Purpose: Discover public WhatsApp groups via indexed invite links.
+
+🟢 WhatsApp Monitor (Metadata)
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Analyze profile photo changes, status timing, and online indicators.
+
+🆕 CallMeBot WhatsApp
+https://www.callmebot.com/
+Purpose: Trigger WhatsApp interactions for number verification workflows.
+
+VKontakte
+🟢 VK People Search
+https://vk.com/search
+Purpose: Search VK users by name, city, education, and employer.
+
+🟢 VK Watch
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Monitor VK profiles for changes in posts, photos, and friends.
+
+🟢 VK Profile Analyzer
+https://vk.com/app
+Purpose: Extract public VK metadata including groups and interests.
+
+🆕 SocialGrep VK
+https://socialgrep.com/
+Purpose: Keyword search across VK posts and comments.
+
+DISCORD
+🟢 Discord Server Discovery
+https://disboard.org/
+Purpose: Discover public Discord servers by topic, language, and keywords.
+
+🟢 Discord.me
+https://discord.me/
+Purpose: Index of public Discord servers and communities.
+
+🟢 DiscordServers
+https://discordservers.com/
+Purpose: Search and analyze public Discord communities.
+
+🟢 Discord ID Lookup
+https://discord.id/
+Purpose: Resolve user, server, and channel IDs from Discord profiles.
+
+🟢 Discord Lookup
+https://discordlookup.com/
+Purpose: Fetch public Discord user metadata and avatar history.
+
+🟢 Discord History Tracker
+https://github.com/
+Purpose: Track message edits, deletions, and activity patterns (where permitted).
+
+🟢 Discord Chat Exporter
+GitHub - Tyrrrz/DiscordChatExporter: Saves Discord chat logs to a file
+Purpose: Export Discord messages for offline analysis and evidence preservation.
+
+🟢 Discord OSINT Toolkit
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Collection of scripts for Discord reconnaissance and metadata analysis.
+
+🆕 SocialGrep (Discord)
+https://socialgrep.com/
+Purpose: Keyword search across public Discord message datasets.
+
+🆕 IntelligenceX (Discord)
+https://intelx.io/
+Purpose: Search indexed Discord leaks, chats, and shared artifacts.
+
+TELEGRAM
+🟢 TgramSearch
+https://tgramsearch.com/
+Purpose: Search Telegram channels and groups by keyword.
+
+🟢 Telegram Finder
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Identify Telegram users via phone, email, or LinkedIn.
+
+🟢 Telemetr
+https://telemetr.io/
+Purpose: Telegram channel analytics and discovery.
+
+🟢 Telegago
+https://telegago.com/
+Purpose: Google-style dorking for Telegram channels.
+
+🟢 Telepathy
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Archive and analyze Telegram conversations.
+
+🟢 Tosint
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: OSINT extraction from Telegram bots and channels.
+
+🆕 TGStat
+https://tgstat.com/
+Purpose: Telegram channel statistics and influence tracking.
+
+🆕 Lyzem
+https://lyzem.com/
+Purpose: Monitor Telegram narratives and disinformation.
+TELEGRAM BOTS
+Identity, Username & Account Analysis
+- **@MaigretOSINTBot**  
+  Username search across 1,000+ websites directly from Telegram.  
+  Purpose: Identity correlation & footprint mapping.
+
+- **@SangMataInfo_bot**  
+  Shows historical Telegram username changes.  
+  Purpose: Alias tracking & evasion detection.
+
+- **@creationdatebot**  
+  Estimates Telegram account creation date.  
+  Purpose: Sockpuppet & burner account analysis.
+
+- **@username_to_id_bot**  
+  Converts usernames to Telegram user/channel IDs.  
+  Purpose: Metadata resolution & automation workflows.
+
+  Phone Number & Email Intelligence
+- **@DetectivaBot**  
+  Phone & email OSINT search across multiple datasets.  
+  Purpose: Identity enrichment & cross-platform correlation.
+
+- **@LeakOSINTBot**  
+  Checks phone numbers and emails against leaked datasets.  
+  Purpose: Breach exposure verification.
+
+- **@PasswordSearchBot**  
+  Searches leaked credentials linked to emails.  
+  Purpose: Account takeover & credential reuse analysis.
+
+- **@Sherlock_OSINT_Bot**  
+  Username, phone, and email lookup.  
+  Purpose: Rapid reconnaissance.
+
+  Vehicle, Property & Regional Intelligence
+
+  - **@AVinfoBot**  
+  Vehicle history via plate, VIN, or phone number.  
+  Purpose: Asset & fraud investigations.
+
+- **@AutoNomerBot**  
+  Finds vehicle images by license plate.  
+  Purpose: Visual verification & geolocation hints.
+  
+  Geolocation & Network Metadata
+
+  - **@GeoMacFinderBot**  
+  Wi-Fi access point location via BSSID/MAC address.  
+  Purpose: Geolocation pivoting.
+
+- **@WhoisDomBot**  
+  Domain & IP WHOIS lookups inside Telegram.  
+  Purpose: Infrastructure reconnaissance.
+
+- **@IPScoreBot**  
+  IP reputation & risk scoring.  
+  Purpose: Fraud & abuse analysis
+
+  Dark Web & Threat Intelligence
+
+  - **@IntelXBot**  
+  Interface to Intelligence X datasets (leaks, dark web, documents).  
+  Purpose: Threat intel & breach investigations.
+
+- **@DarkWebInformerBot**  
+  Tracks threat actors, leaks, and underground activity.  
+  Purpose: Early-warning intelligence.
+
+- **@OnionScanBot**  
+  Onion service metadata lookup.  
+  Purpose: Dark web infrastructure awareness.
+
+  Channel, Group & Message Discovery
+
+- **@TGStatBot**  
+  Telegram channel analytics and discovery.  
+  Purpose: Influence & reach analysis.
+
+- **@TelemetrBot**  
+  Channel statistics, trends, and growth metrics.  
+  Purpose: Propaganda & campaign monitoring.
+
+- **@SearchForChatsBot**  
+  Search Telegram chats by keywords.  
+  Purpose: Topic-based reconnaissance.
+
+- **@SurftgBot**  
+  Message-level search across Telegram.  
+  Purpose: Content & narrative tracking.
+
+ Advanced OSINT & Automation
+
+- **@HimeraSearchBot**  
+  Aggregated OSINT search (people, phones, vehicles, courts).  
+  Purpose: Multi-source intelligence pivoting.
+
+- **@OsintKitBot**  
+  Ukrainian-focused OSINT (phones, emails, IDs, vehicles).  
+  Purpose: Regional intelligence research.
+
+- **@OpenSourceIntelBot**  
+  General OSINT utilities and quick lookups.  
+  Purpose: Rapid analyst workflows.
   
 
-  
+TUMBLR
+🟢 Tumblr Search
+https://www.tumblr.com/search
+Purpose: Native Tumblr keyword and tag search.
+
+🟢 Tumblr Tool
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Extract posts, likes, followers, and reblogs from Tumblr blogs.
+
+🟢 TumblThree
+GitHub - johanneszab/TumblThree: A Tumblr Blog Backup Application
+Purpose: Archive Tumblr blogs locally for analysis.
+
+🆕 Tumblr Tag Viewer
+https://tumblr.com/tagged/
+Purpose: Track communities and trends via Tumblr tags.
+
+LINKEDLN
+🟢 LinkedIn Search
+https://www.linkedin.com/search/
+Purpose: Search people, companies, jobs, and posts.
+
+🟢 LinkedIn X-Ray (Google Dork)
+site:linkedin.com/in
+Purpose: Discover profiles bypassing LinkedIn search limits.
+
+🟢 LinkedInt
+GitHub - vysecurity/LinkedInt: LinkedIn Recon Tool
+Purpose: OSINT tool to gather LinkedIn employee data.
+
+🟢 Hunter LinkedIn Extension
+https://hunter.io/
+Purpose: Discover corporate email formats from LinkedIn profiles.
+
+🆕 PhantomBuster
+https://phantombuster.com/
+Purpose: Automate LinkedIn data collection and enrichment.
+
+STEAM
+🟢 OSINT-Steam
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Extract public Steam profile data and friends lists.
+
+🟢 SteamID Finder
+https://steamid.io/
+Purpose: Resolve SteamID, vanity URLs, and linked accounts.
+
+🟢 SteamRep
+https://steamrep.com/
+Purpose: Reputation and abuse intelligence for Steam accounts.
+
+🆕 SteamDB
+https://steamdb.info/
+Purpose: Analyze Steam account activity, ownership, and metadata
+
+GITHUB
+🟢 GitHub Search
+Build software better, together
+Purpose: Search users, repositories, commits, and code.
+
+🟢 GitHub Monitor
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Track GitHub user activity and repository changes.
+
+🟢 GitHubRecon
+GitHub · Change is constant. GitHub keeps you ahead.
+Purpose: Username and email reconnaissance on GitHub.
+
+🟢 Shhgit
+https://github.com/eth0izzle/shhgit
+Purpose: Detect leaked secrets in GitHub repositories.
+
+🆕 TruffleHog
+GitHub - trufflesecurity/trufflehog: Find, verify, and analyze leaked credentials
+Purpose: Scan GitHub for exposed credentials and secrets.
+
+BLOGSEARCH
+🟢 BlogSearchEngine
+https://www.blogsearchengine.org/
+Purpose: Search blog posts by keyword and topic.
+
+🟢 Notey
+https://notey.com/
+Purpose: Discover niche blogs and authors.
+
+🟢 Twingly
+https://www.twingly.com/
+Purpose: Track blog mentions and influence.
+
+🆕 Substack Search
+https://substack.com/search
+Purpose: Identify writers, newsletters, and narratives.
+
+FORUMS
+🟢 4chan Search
+https://4chansearch.com/
+Purpose: Search threads and archives across 4chan boards.
+
+🟢 BoardReader
+https://boardreader.com/
+Purpose: Meta-search engine for forums and message boards.
+
+🟢 BuiltWith Forum Lookup
+https://builtwith.com/
+Purpose: Identify forum platforms used by websites.
+
+🟢 Facebook Groups
+https://www.facebook.com/groups/
+Purpose: Investigate public group discussions and members.
+
+🟢 Google Groups
+https://groups.google.com/
+Purpose: Search historical mailing lists and discussions.
+
+🟢 LinkedIn Groups
+https://www.linkedin.com/groups/
+Purpose: Professional discussion and network intelligence.
+
+🟢 Yahoo Groups Archive
+https://archive.org/
+Purpose: Access archived Yahoo Groups discussions.
+
+🆕 Discourse Search
+https://www.discourse.org/
+Purpose: Investigate modern forums running on Discourse.
+
+
+
 
 
 
