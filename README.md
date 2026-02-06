@@ -302,6 +302,7 @@ Misuse of leaked data or unauthorized access is illegal and unethical.
 
 ## Social Media Intelligence (SOCMINT)
 FACEBOOK
+
 🟢 Facebook Friend List Scraper
 https://github.com/
 Purpose: Scrape large Facebook friend lists without aggressive rate limiting.
@@ -343,6 +344,7 @@ https://www.crowdtangle.com/
 Purpose: Track public Facebook content spread and engagement (journalism/research).
 
 INSTAGRAM
+
   🟢 Dolphin Radar
 https://dolphinradar.com/
 Purpose: View public Instagram posts, stories, and profiles anonymously.
@@ -380,6 +382,7 @@ https://www.picuki.com/
 Purpose: Anonymous Instagram browsing and content inspection.
 
 TWITTER/X
+
 🟢 Twitter Advanced Search
 https://twitter.com/search-advanced
 Purpose: Filter tweets by keywords, users, dates, and engagement.
@@ -405,6 +408,7 @@ https://followerwonk.com/
 Purpose: Analyze Twitter/X followers and bios.
 
 REDDIT
+
 🟢 Arctic Shift
 https://arctic-shift.photon-reddit.com/
 Purpose: Access historical Reddit data via API and web UI.
@@ -434,6 +438,7 @@ https://unddit.com/
 Purpose: View deleted Reddit comments in near real time.
 
 PINTEREST
+
 🟢 Pingroupie
 https://pingroupie.com/
 Purpose: Discover Pinterest group boards and contributors.
@@ -443,6 +448,7 @@ https://www.pinterest.com/
 Purpose: Analyze hidden engagement metrics for Pinterest pins.
 
 WHATSAPP
+
 🟢 WhatsApp Click-to-Chat
 https://wa.me/
 Purpose: Verify if a phone number is registered on WhatsApp.
@@ -460,6 +466,7 @@ https://www.callmebot.com/
 Purpose: Trigger WhatsApp interactions for number verification workflows.
 
 VKontakte
+
 🟢 VK People Search
 https://vk.com/search
 Purpose: Search VK users by name, city, education, and employer.
@@ -477,6 +484,7 @@ https://socialgrep.com/
 Purpose: Keyword search across VK posts and comments.
 
 DISCORD
+
 🟢 Discord Server Discovery
 https://disboard.org/
 Purpose: Discover public Discord servers by topic, language, and keywords.
@@ -518,6 +526,7 @@ https://intelx.io/
 Purpose: Search indexed Discord leaks, chats, and shared artifacts.
 
 TELEGRAM
+
 🟢 TgramSearch
 https://tgramsearch.com/
 Purpose: Search Telegram channels and groups by keyword.
@@ -549,7 +558,9 @@ Purpose: Telegram channel statistics and influence tracking.
 🆕 Lyzem
 https://lyzem.com/
 Purpose: Monitor Telegram narratives and disinformation.
+
 TELEGRAM BOTS
+
 Identity, Username & Account Analysis
 - **@MaigretOSINTBot**  
   Username search across 1,000+ websites directly from Telegram.  
@@ -656,6 +667,7 @@ Identity, Username & Account Analysis
   
 
 TUMBLR
+
 🟢 Tumblr Search
 https://www.tumblr.com/search
 Purpose: Native Tumblr keyword and tag search.
@@ -673,6 +685,7 @@ https://tumblr.com/tagged/
 Purpose: Track communities and trends via Tumblr tags.
 
 LINKEDLN
+
 🟢 LinkedIn Search
 https://www.linkedin.com/search/
 Purpose: Search people, companies, jobs, and posts.
@@ -694,6 +707,7 @@ https://phantombuster.com/
 Purpose: Automate LinkedIn data collection and enrichment.
 
 STEAM
+
 🟢 OSINT-Steam
 GitHub · Change is constant. GitHub keeps you ahead.
 Purpose: Extract public Steam profile data and friends lists.
@@ -711,6 +725,7 @@ https://steamdb.info/
 Purpose: Analyze Steam account activity, ownership, and metadata
 
 GITHUB
+
 🟢 GitHub Search
 Build software better, together
 Purpose: Search users, repositories, commits, and code.
@@ -732,6 +747,7 @@ GitHub - trufflesecurity/trufflehog: Find, verify, and analyze leaked credential
 Purpose: Scan GitHub for exposed credentials and secrets.
 
 BLOGSEARCH
+
 🟢 BlogSearchEngine
 https://www.blogsearchengine.org/
 Purpose: Search blog posts by keyword and topic.
@@ -749,6 +765,7 @@ https://substack.com/search
 Purpose: Identify writers, newsletters, and narratives.
 
 FORUMS
+
 🟢 4chan Search
 https://4chansearch.com/
 Purpose: Search threads and archives across 4chan boards.
