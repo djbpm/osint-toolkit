@@ -969,6 +969,144 @@ Purpose: Access archived Yahoo Groups discussions.
 https://www.discourse.org/
 Purpose: Investigate modern forums running on Discourse.
 
+ ## IMAGE & VIDEO INTELLIGENCE
+ 
+[IMINT:IMAGE:SEARCH]
+
+google_images        → https://images.google.com
+  Purpose            → Reverse image search, basic source discovery
+
+google_lens          → https://lens.google.com
+  Purpose            → Object, place, text, landmark recognition
+
+bing_images          → https://www.bing.com/images
+  Purpose            → Alternative reverse image indexing
+
+yandex_images        → https://yandex.com/images
+  Purpose            → Strong face & Eastern-EU image matching
+
+baidu_images         → https://image.baidu.com
+  Purpose            → Chinese web image indexing
+
+tineye               → https://tineye.com
+  Purpose            → Image origin & modification tracking
+
+image_raider         → https://www.imageraider.com
+  Purpose            → Bulk reverse image investigation
+
+karmadecay           → https://karmadecay.com
+  Purpose            → Reddit-focused reverse image search
+
+flickr               → https://www.flickr.com/search
+  Purpose            → Photo metadata + photographer discovery
+
+[IMINT:IMAGE:FACE]
+
+pimeyes               → https://pimeyes.com
+  Purpose             → Internet-wide face search (very strong)
+
+facecheck_id          → https://facecheck.id
+  Purpose             → Face matching across social media & web
+
+search4faces          → https://search4faces.com
+  Purpose             → VK, Odnoklassniki, Telegram face search
+
+pictriev              → http://www.pictriev.com
+  Purpose             → Lightweight facial similarity search
+
+[IMINT:IMAGE:ANALYSIS]
+
+exiftool              → https://exiftool.org
+  Purpose             → Full EXIF & metadata extraction
+
+exifeditor            → https://www.exifeditor.io
+  Purpose             → Browser-based EXIF viewer/editor
+
+fotoforensics         → https://fotoforensics.com
+  Purpose             → Error Level Analysis (ELA)
+
+forensically          → https://29a.ch/photo-forensics/
+  Purpose             → Clone detection, noise & compression checks
+
+jpeg_snoop            → https://github.com/ImpulseAdventure/JPEGSnoop
+  Purpose             → JPEG structure & manipulation detection
+
+imgops                → https://imgops.com
+  Purpose             → One-click multi-engine image analysis
+
+profileimageintel     → https://profileimageintel.com
+  Purpose             → Profile picture upload-time correlation
+
+[IMINT:IMAGE:GEO]
+
+geospy_ai              → https://github.com/Graylark/geospy
+  Purpose              → AI-based photo geolocation
+
+karta_view             → https://kartaview.org
+  Purpose              → Street-level imagery verification
+
+mapillary              → https://www.mapillary.com
+  Purpose              → Crowd-sourced street imagery
+
+wikimapia              → https://wikimapia.org
+  Purpose              → Landmark & structure identification
+
+
+ ##  VIDEO SEARCH & DISCOVERY
+
+ [VIDINT:VIDEO:SEARCH]
+
+ youtube                → https://www.youtube.com
+  Purpose               → Primary video source investigation
+
+bing_video             → https://www.bing.com/videos
+  Purpose               → Cross-platform video indexing
+
+yandex_video           → https://yandex.com/video
+  Purpose               → Alt-index + Russian platforms
+
+dailymotion            → https://www.dailymotion.com
+  Purpose               → European video hosting
+
+vimeo                  → https://vimeo.com
+  Purpose               → High-quality & professional uploads
+
+internet_archive       → https://archive.org/details/movies
+  Purpose               → Archived & deleted videos
+
+[VIDINT:VIDEO:ANALYSIS]
+
+invid                  → https://www.invid-project.eu
+  Purpose               → Frame extraction, thumbnails, metadata
+
+youtube_dataviewer     → https://citizenevidence.amnestyusa.org
+  Purpose               → Upload time & thumbnails
+
+frame_by_frame         → Browser extension
+  Purpose               → Visual detail inspection
+
+ffmpeg                 → https://ffmpeg.org
+  Purpose               → Frame slicing, audio extraction
+
+vlc                    → https://www.videolan.org
+  Purpose               → Playback analysis, codec inspection
+
+##  LIVE CAMERA
+
+[VIDINT:LIVE]
+
+insecam                → http://www.insecam.org
+  Purpose               → Exposed live cameras
+
+earthcam               → https://www.earthcam.com
+  Purpose               → Public live webcams
+
+opentopia              → https://www.opentopia.com
+  Purpose               → IP camera indexing
+
+
+
+
 
 
 
