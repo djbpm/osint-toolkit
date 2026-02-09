@@ -28,7 +28,8 @@ The focus is **methodology-first**, not tool spam.
 - Threat Intelligence & CTI  
 - Domains, IPs & Infrastructure  
 - Data Breaches & Credential Exposure  
-- Social Media Intelligence (SOCMINT)  
+- Social Media Intelligence (SOCMINT)
+- Synthetic Media & AI content Detetction 
 - Image & Video Intelligence (IMINT / VIDINT)  
 - Geospatial Intelligence (GEOINT)  
 - Dark Web & Underground Sources  
@@ -969,6 +970,99 @@ Purpose: Access archived Yahoo Groups discussions.
 https://www.discourse.org/
 Purpose: Investigate modern forums running on Discourse.
 
+## Synthetic Media & AI content Detetction
+
+AI Image Detection
+
+AI or Not
+https://www.aiornot.com
+# Detect AI-generated images
+
+Hive Moderation (Image)
+https://hivemoderation.com/ai-generated-content-detection
+# Enterprise AI image detection
+
+Illuminarty
+https://illuminarty.ai
+# Detect AI-generated images and artwork
+
+WasItAI
+https://wasitai.com
+# Simple AI image authenticity check
+
+Photo Forensics
+https://29a.ch/photo-forensics
+# Error Level Analysis (ELA) & manipulation detection
+
+JPEGsnoop
+https://github.com/ImpulseAdventure/JPEGsnoop
+# JPEG compression & camera signature analysis
+
+AI / Deepfake Video Detection
+
+Hive Moderation (Video)
+https://hivemoderation.com/deepfake-detection
+# Detect AI-generated & deepfake videos
+
+Deepware Scanner
+https://scanner.deepware.ai
+# Deepfake video scanning
+
+Reality Defender
+https://realitydefender.com
+# Multi-modal deepfake detection
+
+Intel FakeCatcher
+https://www.intel.com/content/www/us/en/artificial-intelligence/deepfake-detection.html
+# Biological signal-based deepfake research tool
+
+AI Audio / Voice Detection
+
+Resemble Detect
+https://www.resemble.ai/detect
+# AI voice synthesis detection
+
+PlayHT Voice Detector
+https://play.ht/ai-voice-detector
+# Detect synthetic speech
+
+ElevenLabs Speech Classifier
+https://elevenlabs.io/ai-speech-classifier
+# Identify AI-generated voices
+
+Deepware Audio
+https://deepware.ai
+# Audio deepfake detection
+
+AI Text Detection
+
+GPTZero
+https://gptzero.me
+# AI-generated text detection
+
+Originality.ai
+https://originality.ai
+# AI + plagiarism detection
+
+Sapling AI Detector
+https://sapling.ai/ai-content-detector
+# AI-written text detection
+
+Content Authenticity & Provenance
+
+C2PA Verify
+https://verify.contentauthenticity.org
+# Cryptographic content provenance verification
+
+Adobe Content Credentials
+https://contentcredentials.org
+# Verify signed image & video metadata
+
+Truepic
+https://www.truepic.com
+# Verified capture & media integrity
+
+
  ## IMAGE & VIDEO INTELLIGENCE
  
 [IMINT:IMAGE:SEARCH]
@@ -1103,6 +1197,325 @@ earthcam               → https://www.earthcam.com
 
 opentopia              → https://www.opentopia.com
   Purpose               → IP camera indexing
+
+## Geospatial Intelligence (GEOINT)
+
+## General maps & Spatial Tools
+
+OpenIndoor
+https://openindoor.io
+# Indoor maps of buildings (floors, stairs, rooms)
+
+Poweroutage
+https://poweroutage.us
+# Real-time power outage maps by country/region
+
+OpenBenches
+https://openbenches.org
+# Global map of memorial benches
+
+Sondehub
+https://sondehub.org
+# Live radiosonde tracking with altitude & coordinates
+
+The Meddin Bike-Sharing World Map
+https://bikesharingworldmap.com
+# Global bike-sharing stations and closures
+
+Rally Maps
+https://www.rally-maps.com
+# Historical and modern rally race locations
+
+SKYDB
+https://skyscraperpage.com
+# Database of skyscrapers and tall buildings
+
+Street Art Cities
+https://streetartcities.com
+# Global street art and mural map
+
+OpenIndoor
+https://openindoor.io
+# Indoor maps of buildings (floors, stairs, rooms)
+
+Poweroutage
+https://poweroutage.us
+# Real-time power outage maps by country/region
+
+OpenBenches
+https://openbenches.org
+# Global map of memorial benches
+
+Sondehub
+https://sondehub.org
+# Live radiosonde tracking with altitude & coordinates
+
+The Meddin Bike-Sharing World Map
+https://bikesharingworldmap.com
+# Global bike-sharing stations and closures
+
+Rally Maps
+https://www.rally-maps.com
+# Historical and modern rally race locations
+
+SKYDB
+https://skyscraperpage.com
+# Database of skyscrapers and tall buildings
+
+Street Art Cities
+https://streetartcities.com
+# Global street art and mural map
+
+## Worldwide Street Webcams
+
+Webcam Taxi
+https://www.webcamtaxi.com
+# Live street webcams worldwide
+
+OpenSwitchMapsWeb
+https://openswitchmapsweb.com
+# View same location across 160+ map providers
+
+## Mapping & Measurement
+
+Calculator IPVM
+https://calculator.ipvm.com
+# Camera field-of-view simulation
+
+Osmaps Radius
+https://osmapps.com/radius
+# Draw distance radius on map
+
+Google Maps Measure Tool
+https://www.daftlogic.com/projects-google-maps-distance-calculator.htm
+# Distance & area measurement
+
+ACSDG
+https://acsdg.org
+# Export map points to CSV
+
+MeasureMapOnline
+https://measuremaponline.com
+# Polygon and perimeter measurement
+
+Map Fight
+https://mapfight.xyz
+# Compare country sizes
+
+Presto Map Lead Extractor
+https://www.prestomaps.com
+# Extract Google Maps POIs
+
+GPS Visualizer
+https://www.gpsvisualizer.com
+# Visualize GPX/TCX files
+
+## OpenStreetMap/Overpass
+
+OSM Finder
+https://osmfinder.com
+# Match photos to map features
+
+Overpass Turbo Taginfo
+https://taginfo.openstreetmap.org
+# OSM object & tag database
+
+## Satellite / Aerial Imagery
+
+Observer
+https://observer.com
+# Near-real-time satellite imagery
+
+USGS Earth Explorer
+https://earthexplorer.usgs.gov
+# 40+ years of satellite imagery
+
+LandViewer
+https://landviewer.earth
+# On-the-fly satellite analysis
+
+Copernicus Open Access Hub
+https://scihub.copernicus.eu
+# ESA Sentinel satellite data
+
+Sentinel Hub EO Browser
+https://apps.sentinel-hub.com/eo-browser
+# Sentinel & Landsat imagery viewer
+
+Sentinel Playground
+https://apps.sentinel-hub.com/sentinel-playground
+# Visual effects on satellite imagery
+
+NASA Earthdata Search
+https://search.earthdata.nasa.gov
+# NASA satellite datasets
+
+INPE Image Catalog
+http://www.dgi.inpe.br/catalogo
+# Free satellite imagery (Brazil)
+
+NOAA Data Access Viewer
+https://coast.noaa.gov/dataviewer
+# Coastal imagery & LiDAR
+
+NASA Worldview
+https://worldview.earthdata.nasa.gov
+# High-resolution near-real-time imagery
+
+ALOS
+https://www.eorc.jaxa.jp/ALOS/en
+# Japanese land observation satellite
+
+Bhuvan
+https://bhuvan.nrsc.gov.in
+# ISRO geo-platform
+
+OpenAerialMap
+https://openaerialmap.org
+# Open aerial & UAV imagery
+
+Apollo Mapping Image Hunter
+https://imagehunter.apollomapping.com
+# Historical satellite image search
+
+Keyhole (Declassified)
+https://www.nro.gov/FOIA/Declassified-Records
+# Declassified spy satellite imagery
+
+## Transport & Mobility
+
+Vehicle Number Search Toolbox
+https://vehicleenquiry.service.gov.uk
+# Vehicle info by plate (multi-country)
+
+Transit Visualization Client
+https://transit.land
+# Public transport visualization
+
+WorldLicensePlates
+http://worldlicenseplates.com
+# Global license plate index
+
+OpenRailwayMap
+https://www.openrailwaymap.org
+# Railway infrastructure
+
+Waze
+https://www.waze.com/live-map
+# Traffic incidents & road reports
+
+OSM Public Transport
+https://www.openstreetmap.org
+# Download transit routes
+
+##  Communications and Infrastructers
+
+OpenCellID
+https://www.opencellid.org
+# Cell tower database
+
+CellMapper
+https://www.cellmapper.net
+# Cellular coverage & towers
+
+API Mylnikov
+https://api.mylnikov.org
+# WiFi BSSID geolocation
+
+nPerf Map
+https://www.nperf.com/en/map
+# Mobile network coverage
+
+TorMap
+https://tormap.org
+# Tor node map
+
+Infrapedia
+https://www.infrapedia.com
+# Submarine cables & data centers
+
+OONI Explorer
+https://explorer.ooni.org
+# Internet censorship data
+
+## Military and Conflict GEOINT
+
+ADS-B.nl
+https://www.adsb.nl
+# Military aircraft tracking
+
+PlaneFinder Army
+https://planefinder.net
+# Military flight tracking
+
+MarineVesselFinder
+https://www.marinetraffic.com
+# Military ship tracking
+
+Bellingcat Radar Tracker
+https://github.com/bellingcat
+# Radar & sensor analysis
+
+LiveUAmap
+https://liveuamap.com
+# War event tracking
+
+NATO Interactive Map
+https://www.nato.int
+# NATO operations overview
+
+US Military Bases Map
+https://www.arcgis.com
+# Global US base locations
+
+Open Source Munitions Portal
+https://osmp.ngo
+# Weapon identification
+
+## Anomalities & Lost places
+
+Argis UFO Map
+https://argis.com
+# UFO sightings (USA)
+
+Bigfoot & UFO Map
+https://www.arcgis.com
+# Paranormal sightings
+
+The Haunted Map
+https://ghostresearchinternational.com
+# Haunted locations
+
+Lost Places Map
+https://lostplacesmap.com
+# Abandoned locations
+
+URBEX Database
+https://urbexology.com
+# Urban exploration database
+
+Virtual Globe Trotting
+https://virtualglobetrotting.com
+# Street View anomalies
+
+## Other useful  GEOINT
+
+OldMapsOnline
+https://www.oldmapsonline.org
+# Historical maps
+
+WhoDidIt
+https://whodidit.openstreetmap.org
+# OSM edit history
+
+WhatIsWhere
+https://whatiswhere.com
+# POI search
+
+European World Translator
+https://europeanworldmap.com
+# Language distribution map
+
 
 
 
