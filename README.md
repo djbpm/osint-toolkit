@@ -746,6 +746,177 @@ Purpose: Detect leaked secrets in GitHub repositories.
 GitHub - trufflesecurity/trufflehog: Find, verify, and analyze leaked credentials
 Purpose: Scan GitHub for exposed credentials and secrets.
 
+TikTok
+
+- TikTok Timestamp — https://tiktoktimestamp.com
+  Determine the exact publication time of a TikTok video.
+
+- TikStats — https://tikstats.org
+  Detailed growth statistics for TikTok accounts.
+
+- TikTok Scraper — https://github.com/drawrowfly/tiktok-scraper
+  Scrape videos, users, hashtags, and metadata.
+
+- TikTok Downloader — https://ssstik.io
+  Download TikTok videos.
+
+- TikTokD — https://tiktokd.com
+  TikTok video downloader.
+
+- Snaptik — https://snaptik.app
+  TikTok video downloader.
+
+- TikTake — https://tiktake.net
+  TikTok video downloader.
+
+- Exolyt — https://exolyt.com
+  TikTok profile analytics.
+
+- TikBuddy — https://tikbuddy.com
+  TikTok profile analytics.
+
+- MaveKite — https://mavekite.com
+  Engagement analytics for last 40 videos.
+
+- TikRank — https://tikrank.com
+  Country-based TikTok ranking and comparison.
+
+- TikTok Creative Center — https://ads.tiktok.com/business/creativecenter
+  Trending hashtags, songs, creators, and videos.
+
+OnlyFans
+
+- FansMetrics — https://fansmetrics.com
+  Search across millions of OnlyFans accounts.
+
+- OnlySearch — https://onlysearch.co
+  OnlyFans user search engine.
+
+- OnlyFinder — https://onlyfinder.com
+  Search profiles by people, images, and deals.
+
+- Hubite OnlyFans Search — https://hubite.com/onlyfans-search
+  OnlyFans profiles search with price filters.
+
+- SimilarFans — https://similarfans.com
+  Find OnlyFans profiles using advanced filters.
+
+- FanSearch — https://fansearch.com
+  Search OnlyFans profiles by country, price, or category.
+
+Twitch
+
+- Twitch Tools — https://twitch-tools.rootonline.de
+  Export full follower lists and channel data.
+
+- Twitch Tracker — https://twitchtracker.com
+  Detailed Twitch streamer analytics.
+
+- SullyGnome — https://sullygnome.com
+  Advanced Twitch statistics and trends.
+
+- Twitch Stream Filter — https://www.twitch.tv/directory
+  Filter streams by game, title, language, viewers.
+
+- Untwitch — https://untwitch.com
+  Twitch video downloader.
+
+- Twitch Overlap — https://twitchoverlap.com
+  Audience overlap between Twitch channels.
+
+- Justlog — https://justlog.tv
+  Export Twitch chat messages.
+
+- Pogu Live — https://pogu.live
+  Watch deleted or sub-only VODs.
+
+- Twitch Recover — https://github.com/TwitchRecover/TwitchRecover
+  Recover deleted Twitch VODs.
+
+- Twitch Database — https://twitchdatabase.com
+  Followers, channel metadata, and role lookup.
+
+- Twitch Insights — https://twitchinsights.net
+  Account stats, bots, extensions, teams.
+
+- Twitch Followage Tool — https://twitch.followage.io
+  View follow history with dates.
+
+Spotify
+
+- ZSpotify — https://github.com/Footsiefat/zspotify
+  Spotify track downloader.
+
+- Chosic — https://www.chosic.com
+  Analyze playlists, moods, genres, decades.
+
+- Spotify Downloader — https://spotifydown.com
+  Download Spotify playlists via YouTube.
+
+- ChartMasters Spotify Tool — https://chartmasters.org/spotify-streaming-numbers-tool/
+  Spotify streaming statistics.
+
+Roblox
+
+- Rolimon’s — https://www.rolimons.com
+  Roblox user stats, limited items, trade history, value tracking.
+
+- RBLX.trade — https://rblx.trade
+  Roblox limited item values and trading analysis.
+
+- Bloxlink — https://blox.link
+  Link Roblox accounts with Discord; useful for cross-platform pivoting.
+
+- Roblox Username History — https://www.roblox.com/users/profile?username=
+  Check past usernames by pivoting from profile data.
+
+- Roblox API Explorer — https://create.roblox.com/docs/reference/engine
+  Query user, game, asset, and group metadata via official APIs.
+
+- Roblox Group Finder — https://www.roblox.com/groups
+  Identify groups a user owns or participates in.
+
+- RoSearcher — https://github.com/sixsixfive/RoSearcher
+  Roblox username enumeration and profile lookup.
+
+- Roblox Badge Finder — https://www.roblox.com/develop
+  Analyze badges earned across games to infer behavior patterns.
+
+- Roblox Game History — https://www.roblox.com/users/profile
+  View public play history and created games.
+
+- Roblox Catalog — https://www.roblox.com/catalog
+  Pivot on avatar items, accessories, and ownership links.
+
+Minecraft
+
+- MineSight — https://minesight.gg
+  OSINT by Minecraft nickname: servers, history, linked socials.
+
+Xbox
+
+- XboxGamertag — https://xboxgamertag.com
+  Search Xbox Live users and gaming history.
+
+Office365
+
+- Oh365UserFinder — https://github.com/dievus/Oh365UserFinder
+  Check if an email is tied to Office365.
+
+- o365chk — https://github.com/0xZDH/o365chk
+  Enumerate Office365 domains and instances.
+
+OneDrive
+
+- OneDrive Enumeration Tool — https://github.com/nyxgeek/onedrive_user_enum
+  Enumerate OneDrive users within a company domain.
+
+Udemy
+
+- Udemy Video Playback Speed — https://chrome.google.com/webstore/detail/udemy-video-playback-speed
+  Control video playback speed on Udemy.
+
+
 BLOGSEARCH
 
 🟢 BlogSearchEngine
