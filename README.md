@@ -1516,6 +1516,97 @@ European World Translator
 https://europeanworldmap.com
  Language distribution map
 
+## Dark Web & Underground Sources (OSINT)
+
+### Darknet Search Engines
+
+[+] Ahmia
+https://ahmia.fi
+Purpose: Indexed search engine for .onion sites (legal + monitored)
+
+[+] Torch
+http://torch.onion
+Purpose: One of the oldest darknet search engines (broad indexing)
+
+[+] Kilos Darknet Search
+https://kilos.io
+Purpose: Marketplace-focused darknet search (clearnet gateway)
+
+[+] Onion Search Engine
+https://onionsearchengine.com
+Purpose: Search .onion sites + related pastebin/email leaks
+
+### Onion Mapping & Link Analysis
+
+[+] Ahmia Link Graph
+https://ahmia.fi/graph
+Purpose: Visualize relationships between onion services
+
+[+] OnionGraph
+https://oniongraph.com
+Purpose: Discover linked onion infrastructure
+
+### Paste & Leak Monitoring
+
+[+] Pastebin
+https://pastebin.com
+Purpose: Monitor public pastes for credentials, leaks, dumps
+
+[+] Pastebin Bisque
+https://github.com/bisque-bisque/pastebin-scraper
+Purpose: Download all pastes from a specific Pastebin user
+
+[+] Ghostbin
+https://ghostbin.com
+Purpose: Alternative paste site often used for leaks
+
+[+] Rentry
+https://rentry.co
+Purpose: Modern paste platform frequently used by threat actors
+
+### Dark Web Crawling & Archiving
+
+[+] Dark Web Scraper
+https://github.com/mishakorzik/All-in-One-Dark-Web-Scraper
+Purpose: Crawl onion sites for emails, wallets, APIs, usernames
+
+[+] Darkweb Archive
+https://darkwebarchive.org
+Purpose: Archived snapshots of onion services
+
+[+] OnionScan
+https://github.com/s-rah/onionscan
+Purpose: Analyze onion services for metadata & leaks
+
+### Onion Status & Reliability
+
+[+] Dark.Fail
+https://dark.fail
+Purpose: Verify current onion URLs (markets, forums, services)
+
+[+] Tor Metrics
+https://metrics.torproject.org
+Purpose: Tor network health, relay data, regional usage
+
+### Marketplaces & Underground Signals (INTEL-ONLY)
+
+[+] Dread (Reddit-style forum)
+http://dread.onion
+Purpose: Underground discussions, scams, market reputation
+
+[+] Recon (Market review forum)
+http://recon.onion
+Purpose: Vendor reputation & breach chatter
+
+### Crypto & Financial Signals
+
+[+] Bitcoin Abuse Database
+https://www.bitcoinabuse.com
+Purpose: Wallets tied to scams & darknet activity
+
+[+] Chainabuse
+https://www.chainabuse.com
+Purpose: Reported crypto fraud & underground campaigns
 
 
 
