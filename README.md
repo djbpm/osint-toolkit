@@ -1608,6 +1608,133 @@ Purpose: Wallets tied to scams & darknet activity
 https://www.chainabuse.com
 Purpose: Reported crypto fraud & underground campaigns
 
+## Automation & Frameworks  
+
+[+] OSINT Framework
+https://osintframework.com
+Purpose: Master directory of OSINT tools by category
+
+[+] IntelTechniques
+https://inteltechniques.com
+Purpose: Structured OSINT workflows + tools by data type
+
+[+] Trace Labs OSINT VM
+https://www.tracelabs.org/initiatives/osint-vm
+Purpose: Prebuilt OSINT investigation virtual machine
+
+[+] CSI Linux
+https://csilinux.com
+Purpose: Full OSINT + DFIR Linux distribution
+
+### Automated OSINT Collection Frameworks
+
+[+] SpiderFoot
+https://www.spiderfoot.net
+Purpose: Automated OSINT reconnaissance & correlation engine
+
+[+] Maltego
+https://www.maltego.com
+Purpose: Graph-based link analysis & data enrichment
+
+[+] Recon-ng
+https://github.com/lanmaster53/recon-ng
+Purpose: Modular reconnaissance framework (CLI-based)
+
+[+] Sn0int
+https://github.com/kpcyrd/sn0int
+Purpose: Semi-automatic OSINT with scripting support
+
+### Workflow Automation & Orchestration
+
+[+] n8n
+https://n8n.io
+Purpose: No-code / low-code automation for OSINT pipelines
+
+[+] Apache Airflow
+https://airflow.apache.org
+Purpose: Schedule and orchestrate large OSINT jobs
+
+[+] Node-RED
+https://nodered.org
+Purpose: Visual automation for data ingestion & enrichment
+
+[+] Cron + Bash / Python
+Purpose: Lightweight automation for repeatable OSINT tasks
+
+### Modular OSINT Toolkits
+
+[+] theHarvester
+https://github.com/laramies/theHarvester
+Purpose: Automated email, domain & subdomain enumeration
+
+[+] Amass
+https://github.com/owasp-amass/amass
+Purpose: Asset discovery & OSINT mapping (OWASP)
+
+[+] Metagoofil
+https://github.com/laramies/metagoofil
+Purpose: Metadata extraction from public documents
+
+[+] Datasploit
+https://github.com/DataSploit/datasploit
+Purpose: Automated data aggregation from multiple OSINT sources
+
+### Social Media Automation (Ethical Use)
+
+[+] Twint
+https://github.com/twintproject/twint
+Purpose: Twitter/X OSINT scraping without API
+
+[+] Instaloader
+https://github.com/instaloader/instaloader
+Purpose: Instagram media & metadata collection
+
+[+] Sherloq
+https://github.com/GuidoBartoli/sherloq
+Purpose: Automation-friendly image forensic toolkit
+
+### Data Processing & Correlation
+
+[+] OpenRefine
+https://openrefine.org
+Purpose: Clean, normalize & cluster OSINT datasets
+
+[+] Neo4j
+https://neo4j.com
+Purpose: Graph database for relationship analysis
+
+[+] Elastic Stack (ELK)
+https://www.elastic.co
+Purpose: Index, search & visualize OSINT data at scale
+
+### Sandboxing & Analysis Automation
+
+[+] ANY.RUN
+https://any.run
+Purpose: Interactive malware & URL analysis
+
+[+] VirusTotal
+https://www.virustotal.com
+Purpose: Automated file, hash & URL intelligence
+
+[+] Hybrid Analysis
+https://www.hybrid-analysis.com
+Purpose: Behavioral malware analysis
+
+### Intelligence Platforms (Enterprise / Pro)
+
+[+] Recorded Future
+https://www.recordedfuture.com
+Purpose: Threat intelligence automation & enrichment
+
+[+] OpenCTI
+https://www.opencti.io
+Purpose: Open-source cyber threat intelligence platform
+
+[+] MISP
+https://www.misp-project.org
+Purpose: Structured threat intelligence sharing & automation
+
 
 
 
