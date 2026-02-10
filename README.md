@@ -970,9 +970,9 @@ Purpose: Access archived Yahoo Groups discussions.
 https://www.discourse.org/
 Purpose: Investigate modern forums running on Discourse.
 
-Synthetic Media & AI content Detetction
+## Synthetic Media & AI content Detetction
 
-## AI Image Detection
+### AI Image Detection
 
 AI or Not
 https://www.aiornot.com
@@ -998,7 +998,7 @@ JPEGsnoop
 https://github.com/ImpulseAdventure/JPEGsnoop
  JPEG compression & camera signature analysis
 
-## AI / Deepfake Video Detection
+### AI / Deepfake Video Detection
 
 Hive Moderation (Video)
 https://hivemoderation.com/deepfake-detection
@@ -1016,7 +1016,7 @@ Intel FakeCatcher
 https://www.intel.com/content/www/us/en/artificial-intelligence/deepfake-detection.html
  Biological signal-based deepfake research tool
 
-## AI Audio / Voice Detection
+### AI Audio / Voice Detection
 
 Resemble Detect
 https://www.resemble.ai/detect
@@ -1034,7 +1034,7 @@ Deepware Audio
 https://deepware.ai
  Audio deepfake detection
 
-## AI Text Detection
+### AI Text Detection
 
 GPTZero
 https://gptzero.me
@@ -1048,7 +1048,7 @@ Sapling AI Detector
 https://sapling.ai/ai-content-detector
  AI-written text detection
 
-## Content Authenticity & Provenance
+### Content Authenticity & Provenance
 
 C2PA Verify
 https://verify.contentauthenticity.org
@@ -1146,7 +1146,7 @@ wikimapia              → https://wikimapia.org
   Purpose              → Landmark & structure identification
 
 
-   ## VIDEO SEARCH & DISCOVERY
+   ### VIDEO SEARCH & DISCOVERY
 
  [VIDINT:VIDEO:SEARCH]
 
@@ -1185,7 +1185,7 @@ ffmpeg                 → https://ffmpeg.org
 vlc                    → https://www.videolan.org
   Purpose               → Playback analysis, codec inspection
 
-  ## LIVE CAMERA
+  ### LIVE CAMERA
 
 [VIDINT:LIVE]
 
@@ -1266,7 +1266,7 @@ Street Art Cities
 https://streetartcities.com
  Global street art and mural map
 
- ## Worldwide Street Webcams
+ ### Worldwide Street Webcams
 
 Webcam Taxi
 https://www.webcamtaxi.com
@@ -1276,7 +1276,7 @@ OpenSwitchMapsWeb
 https://openswitchmapsweb.com
 View same location across 160+ map providers
 
-## Mapping & Measurement
+### Mapping & Measurement
 
 Calculator IPVM
 https://calculator.ipvm.com
@@ -1310,7 +1310,7 @@ GPS Visualizer
 https://www.gpsvisualizer.com
  Visualize GPX/TCX files
 
-## OpenStreetMap/Overpass
+### OpenStreetMap/Overpass
 
 OSM Finder
 https://osmfinder.com
@@ -1320,7 +1320,7 @@ Overpass Turbo Taginfo
 https://taginfo.openstreetmap.org
  OSM object & tag database
 
-## Satellite / Aerial Imagery
+### Satellite / Aerial Imagery
 
 Observer
 https://observer.com
@@ -1382,7 +1382,7 @@ Keyhole (Declassified)
 https://www.nro.gov/FOIA/Declassified-Records
  Declassified spy satellite imagery
 
-## Transport & Mobility
+### Transport & Mobility
 
 Vehicle Number Search Toolbox
 https://vehicleenquiry.service.gov.uk
@@ -1408,7 +1408,7 @@ OSM Public Transport
 https://www.openstreetmap.org
  Download transit routes
 
-##  Communications and Infrastructers
+###  Communications and Infrastructers
 
 OpenCellID
 https://www.opencellid.org
@@ -1438,7 +1438,7 @@ OONI Explorer
 https://explorer.ooni.org
  Internet censorship data
 
-## Military and Conflict GEOINT
+### Military and Conflict GEOINT
 
 ADS-B.nl
 https://www.adsb.nl
@@ -1472,7 +1472,7 @@ Open Source Munitions Portal
 https://osmp.ngo
  Weapon identification
 
-## Anomalities & Lost places
+### Anomalities & Lost places
 
 Argis UFO Map
 https://argis.com
@@ -1498,7 +1498,7 @@ Virtual Globe Trotting
 https://virtualglobetrotting.com
  Street View anomalies
 
-## Other useful  GEOINT
+### Other useful  GEOINT
 
 OldMapsOnline
 https://www.oldmapsonline.org
