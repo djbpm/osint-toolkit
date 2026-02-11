@@ -1735,6 +1735,165 @@ Purpose: Open-source cyber threat intelligence platform
 https://www.misp-project.org
 Purpose: Structured threat intelligence sharing & automation
 
+## Research, Academia & Reports
+
+### Academic Search Engines
+
+[+] Google Scholar
+https://scholar.google.com
+Purpose: Search peer-reviewed papers, citations, theses
+
+[+] Semantic Scholar
+https://www.semanticscholar.org
+Purpose: AI-powered academic paper discovery
+
+[+] BASE (Bielefeld Academic Search Engine)
+https://www.base-search.net
+Purpose: 300M+ academic documents & repositories
+
+[+] CORE
+https://core.ac.uk
+Purpose: Aggregated global open access research papers
+
+[+] DOAJ (Directory of Open Access Journals)
+https://doaj.org
+Purpose: Open-access peer-reviewed journals
+
+[+] ResearchGate
+https://www.researchgate.net
+Purpose: Academic networking + access to publications
+
+### Government & Official Reports
+
+[+] USA.gov Publications
+https://www.usa.gov/publications
+Purpose: U.S. government reports & documents
+
+[+] EU Open Data Portal
+https://data.europa.eu
+Purpose: European Union datasets & reports
+
+[+] NATO Publications
+https://www.nato.int/cps/en/natohq/publications.htm
+Purpose: Security & defense reports
+
+[+] UK National Archives
+https://www.nationalarchives.gov.uk
+Purpose: Declassified UK government records
+
+[+] CIA FOIA Electronic Reading Room
+https://www.cia.gov/readingroom
+Purpose: Declassified intelligence documents
+
+[+] FBI Vault
+https://vault.fbi.gov
+Purpose: Declassified FBI records
+
+### Think Tanks & Policy Research
+
+[+] RAND Corporation
+https://www.rand.org
+Purpose: Defense, cyber, geopolitics research
+
+[+] CSIS (Center for Strategic & International Studies)
+https://www.csis.org
+Purpose: Security, cyber, geopolitical analysis
+
+[+] Chatham House
+https://www.chathamhouse.org
+Purpose: International affairs & risk reports
+
+[+] Atlantic Council
+https://www.atlanticcouncil.org
+Purpose: Geopolitics & cyber threat research
+
+[+] Carnegie Endowment
+https://carnegieendowment.org
+Purpose: Global security & political analysis
+
+### Cybersecurity & Threat Intelligence Reports
+
+[+] Mandiant Reports
+https://www.mandiant.com/resources
+Purpose: APT & incident response reports
+
+[+] CrowdStrike Global Threat Reports
+https://www.crowdstrike.com/resources/reports
+Purpose: Nation-state & cybercrime activity analysis
+
+[+] Microsoft Security Intelligence
+https://www.microsoft.com/security/blog
+Purpose: Threat landscape research
+
+[+] Kaspersky Securelist
+https://securelist.com
+Purpose: Malware & APT research
+
+[+] ENISA Reports
+https://www.enisa.europa.eu/publications
+Purpose: EU cybersecurity & risk assessments
+
+[+] MITRE ATT&CK Evaluations
+https://attack.mitre.org
+Purpose: Adversary techniques & detection mapping
+
+### Conflict & Crisis Research
+
+[+] ACLED
+https://acleddata.com
+Purpose: Armed conflict & political violence datasets
+
+[+] ReliefWeb
+https://reliefweb.int
+Purpose: Humanitarian crisis situation reports
+
+[+] SIPRI
+https://www.sipri.org
+Purpose: Military expenditure & arms trade data
+
+[+] International Crisis Group
+https://www.crisisgroup.org
+Purpose: Conflict prevention & geopolitical analysis
+
+### Data & Statistical Research
+
+[+] World Bank Data
+https://data.worldbank.org
+Purpose: Global economic & development indicators
+
+[+] OECD Data
+https://data.oecd.org
+Purpose: Economic & policy statistics
+
+[+] UN Data
+https://data.un.org
+Purpose: Global UN datasets
+
+[+] Statista
+https://www.statista.com
+Purpose: Aggregated statistical reports
+
+### Investigative Journalism Archives
+
+[+] OCCRP
+https://www.occrp.org
+Purpose: Organized crime & corruption investigations
+
+[+] Bellingcat
+https://www.bellingcat.com
+Purpose: OSINT-based investigative reports
+
+[+] ICIJ
+https://www.icij.org
+Purpose: Global investigative collaborations
+
+[+] ProPublica
+https://www.propublica.org
+Purpose: Investigative journalism reports
+
+
+
+
 
 
 
